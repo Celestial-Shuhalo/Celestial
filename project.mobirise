@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contactus.html",
+    "currentPage": "raidinfo.html",
     "name": "Celestial",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 126,
+    "uniqCompNum": 128,
     "versionPublish": "3.10.8",
     "favicon": "",
     "noImageResize": "true"
@@ -5056,6 +5056,44 @@
             "bgColor": "#000000"
           },
           "text": "<p><a href=\"http://#\"><iframe src=\"http://www.warcraftlogs.com/guilds/recent_reports/89683/\">&amp;amp;lt;/A&amp;amp;gt;</iframe></a></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Guild Calendar",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<p><a href=\"http://#\"><iframe src=\"https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=celestial.shuhalo%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FChicago\" style=\"border-width:0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe></a></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
