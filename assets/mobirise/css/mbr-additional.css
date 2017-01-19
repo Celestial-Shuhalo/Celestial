@@ -1575,6 +1575,9 @@ h6,
 #header3-3i .mbr-section-subtitle {
   text-align: center;
 }
+#header3-3i H3 {
+  text-align: right;
+}
 #content1-3j P {
   text-align: center;
 }

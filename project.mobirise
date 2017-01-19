@@ -4971,7 +4971,7 @@
           },
           "title3": "<span style=\"font-size: 1.25rem; line-height: 1.2825;\"><i>Legion</i></span><br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "-- Emerald Nightmare: 7/7N, 2/7H<br><br>-- Trial of Valor: In Progress<br><br>-- The Nighthold: To Be Released<br>",
+          "caption3": "-- Emerald Nightmare: 7/7N, 4/7H<br><br>-- Trial of Valor: 2/3N<br><br>-- The Nighthold: 3/10N<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -5055,12 +5055,15 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<p><a href=\"http://#\"><iframe src=\"http://www.warcraftlogs.com/guilds/recent_reports/89683/\">&amp;amp;lt;/A&amp;amp;gt;</iframe></a></p>"
+          "text": "<p><a href=\"http://#\"><iframe src=\"http://www.warcraftlogs.com/guilds/recent_reports/89683/\">&amp;amp;amp;lt;/A&amp;amp;amp;gt;</iframe></a></p>"
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
             }
           },
           "_tags": [
