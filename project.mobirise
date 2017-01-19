@@ -900,11 +900,11 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Character*"
+                "customTitle": "Character (Battle Tag)*"
               },
               "email": {
                 "title": "Email",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Battle Tag*"
               },
               "phone": {
@@ -4481,7 +4481,7 @@
               },
               "email": {
                 "title": "Email",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Battle Tag*"
               },
               "phone": {
