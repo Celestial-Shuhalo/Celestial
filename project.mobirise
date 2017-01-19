@@ -5055,7 +5055,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<p><a href=\"http://#\"><iframe src=\"http://www.warcraftlogs.com/guilds/recent_reports/89683/\">&amp;amp;amp;lt;/A&amp;amp;amp;gt;</iframe></a></p>"
+          "text": "<p><a href=\"http://#\"><iframe src=\"http://www.warcraftlogs.com/guilds/recent_reports/89683/\">&amp;amp;amp;amp;amp;amp;amp;lt;/A&amp;amp;amp;amp;amp;amp;amp;gt;</iframe></a></p>"
         },
         {
           "_styles": {
