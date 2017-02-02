@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "raidinfo.html",
+    "currentPage": "index.html",
     "name": "Celestial",
     "theme": {
       "name": "mobirise3",
@@ -240,7 +240,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Celestial.Shuhalo/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Celestial.Shuhalo/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         }
       ]
     },
@@ -388,7 +388,7 @@
               "authorBio": "User"
             },
             {
-              "text": "Celestial is run by <i><b>Hekus</b>&nbsp;who has been guild master since 2015. Hekus' right hand man is <b>Rigourminos</b>.</i>",
+              "text": "Celestial is run by <i><b>Hekus</b>&nbsp;who has been guild master since 2015. Hekus' right hand men are&nbsp;<b>Rigourminos</b>&nbsp;and <b>Biredis</b>.</i>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -600,7 +600,7 @@
               "text": "<p>Hekus has been leading the guild since 2013 as Assisant Guild Master and took over as official Guild Master in 2016. He enjoys raiding and getting to know the people in the guild.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/111255087-profilemain.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/111255087-profilemain-1.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -647,14 +647,14 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "Biredis",
-              "authorBio": "PvP Officer"
+              "authorName": "<p>Biredis&nbsp;&nbsp;<br></p>",
+              "authorBio": "Assistant Guild Master<br>Events Officer<br><br>"
             },
             {
-              "text": "<p>Oppalina is like the mother of the guild; she is nice most of the time but beats you when you need it. She loves to help people out especially when she can show Hekus up.</p>",
+              "text": "<p>Xarari has previously been not only a Raid Leader but also a Guild Master giving her an excellent history of personal knowledge and experience to draw from. All the raiders value and respect her and enjoy running her raids every week.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/128524521-profilemain.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/110536075-profilemain.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -665,7 +665,7 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "Oppalina",
+              "authorName": "Xarari",
               "authorBio": "Raid Leader"
             },
             {
@@ -4971,7 +4971,7 @@
           },
           "title3": "<span style=\"font-size: 1.25rem; line-height: 1.2825;\"><i>Legion</i></span><br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "-- Emerald Nightmare: 7/7N, 4/7H<br><br>-- Trial of Valor: 2/3N<br><br>-- The Nighthold: 6/10N<br>",
+          "caption3": "-- Emerald Nightmare: 7/7N, 5/7H<br><br>-- Trial of Valor: 2/3N<br><br>-- The Nighthold: 7/10N<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
