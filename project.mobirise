@@ -25,7 +25,8 @@
     "versionPublish": "3.10.8",
     "favicon": "",
     "noImageResize": "true",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -5051,6 +5052,9 @@
           "_styles": {
             "P": {
               "text-align": "center"
+            },
+            "DIV": {
+              "text-align": "center"
             }
           },
           "_anchor": "content1-3j",
@@ -5059,7 +5063,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<p><a href=\"http://#\"><iframe src=\"https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=celestial.shuhalo%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FChicago\" style=\"border-width:0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe></a></p>"
+          "text": "<p><a href=\"http://#\">.<iframe src=\"https://calendar.google.com/calendar/embed?showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=celestial.shuhalo%40gmail.com&amp;color=%231B887A&amp;src=lfi6daftcvv197jvjfl1lmpbks%40group.calendar.google.com&amp;color=%23853104&amp;src=fo3u56bho5gjuokib5gj6vpk1c%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FChicago\" style=\"border-width:0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe></a></p>"
         },
         {
           "_styles": {
