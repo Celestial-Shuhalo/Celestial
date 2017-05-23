@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Celestial</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"officers.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Officers</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"officerapply.html\">Officer Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roles.html\">Guild Roles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"officers.html\">Meet the Officers</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"raidinfo.html\">Raid Information</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Resources</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Class Guides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tanks.html\">Tanks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"healers.html\">Healers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dps.html\">DPS</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Raid Strategies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emnight.html\">Emerald Nightmare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trialvalor.html\">Trial of Valor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nighthold.html\">The Nighthold</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lore.html\">Lore</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"officers.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Officers</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"officerapply.html\">Officer Application</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"roles.html\">Guild Roles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"officers.html\">Meet the Officers</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"raidinfo.html\">Raid Information</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Resources</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Class Guides</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tanks.html\">Tanks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"healers.html\">Healers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dps.html\">DPS</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Raid Strategies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emnight.html\">Emerald Nightmare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"trialvalor.html\">Trial of Valor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nighthold.html\">The Nighthold</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lore.html\">Lore</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -390,7 +390,7 @@
               "authorBio": "User"
             },
             {
-              "text": "Celestial is run by <i><b>Hekus</b>&nbsp;who has been guild master since 2015. Hekus' right hand men are&nbsp;<b>Rigourminos</b>&nbsp;and <b>Biredis</b>.</i>",
+              "text": "Celestial is run by <i><b>Hekus</b>&nbsp;who has been guild master since 2015. Hekus' right hand (wo)men are&nbsp;<b>Rigourminos</b>,&nbsp;<b>Biredis</b>, and <b>Xarari</b>.</i>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -595,6 +595,9 @@
             },
             ".card-block I": {
               "color": "#000000"
+            },
+            ".card-block": {
+              "color": "#000000"
             }
           },
           "testimonial": [
@@ -602,7 +605,7 @@
               "text": "<p>Hekus has been leading the guild since 2013 as Assisant Guild Master and took over as official Guild Master in 2016. He enjoys raiding and getting to know the people in the guild.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/111255087-profilemain-1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/hekus.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -620,7 +623,7 @@
               "text": "Rigourminos (Rig) has been with Celestial since 2015 and rose to higher ranks by showing that he loves the guild as much as Hekus. He also loves to tell you all about Lore and runs a Lore page on Facebook. Don't hestitate to ask him all about it, or check out the Lore blog he updates.",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/121773879-profilemain-160x118.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/rigourminos.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -632,13 +635,13 @@
                 }
               },
               "authorName": "Rigourminos",
-              "authorBio": "Assistant Guild Master<br>Lore Master<br>"
+              "authorBio": "Assistant Guild Master<br>Raid Leader and Lore Master<br>"
             },
             {
               "text": "<p>Biredis has been with the guild for a very long time and has always been the voice of reason, especially when we talk about guild events. Biredis (or Scotty as everyone calls him) enjoys setting up the events that aren't progression raids, wether it be old raids, PvP nights, Keystone runs, etc. you name it, he'll try to set it up.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/127108342-profilemain-160x118.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/biredis.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -656,7 +659,7 @@
               "text": "<p>Xarari has previously been not only a Raid Leader but also a Guild Master giving her an excellent history of personal knowledge and experience to draw from. All the raiders value and respect her and enjoy running her raids every week.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/110536075-profilemain.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/xarari.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -668,13 +671,13 @@
                 }
               },
               "authorName": "Xarari",
-              "authorBio": "Raid Leader"
+              "authorBio": "Assistant Guild Master<br>Guild Adviser and Banker<br>"
             },
             {
-              "text": "<p>Tesla is a former guild master and enjoys being in a leadership position. Being on when many other officers are not, he has pleanty of time to plan that week's achievement or mount run.</p>",
+              "text": "<p>Cwealm has been an active guild memeber and friends with Xarari for many years, he always looks for the best in the guild and looks ot make the guild the best it can be.&nbsp;</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/128696323-profilemain-1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/cwealm.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -685,13 +688,31 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "<p>Tesla</p>",
-              "authorBio": "Events Coordinator"
+              "authorName": "<p>Cwealm</p>",
+              "authorBio": "Public Relations<br>"
+            },
+            {
+              "text": "<p>Callyn got into raiding recently in the big scheme of the game, he has since loved to help the guild and his guildies with anything they need in and out of the game. He looks to liven up the chat with his special sense of humor and calm down any issue that should arise.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/callyn.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Callyn",
+              "authorBio": "Guild Jester"
             }
           ],
           "_anchor": "testimonials2-r",
           "_params": {
-            "count": "5",
+            "count": "6",
             "paddingTop": 3,
             "paddingBottom": 3,
             "showImages": true,
@@ -1157,7 +1178,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h3>Guild Master:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Manages and controls all guild functionality and leads the guild as lead representative.</span></h3><h3>Assistant Guild Master:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Assists the Guild Master and, in the absence of the Guild Master, inherits all powers and responsibilities of the Guild Master.</span></h3><h3>Officer:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Each officer has a different “niche” within the leadership:</span></h3><ul><li><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Raid Leader: Officer who manages and leads the Core Team raids.</span></li></ul><h4></h4><h3></h3><h2></h2><h4></h4><h4></h4><h4></h4><h4></h4><ul><li>PvP Officer: Manages the PvP events and related activities.</li></ul><h4></h4><ul><li>Lore Master:<span style=\"font-family: 'Slabo 27px', serif; font-size: 1.07rem; font-weight: 300; line-height: 1.5; color: inherit;\">&nbsp;Officer who is well versed in the lore of the game.</span></li></ul><h4></h4><h4></h4><h4></h4><ul><li>Event Organizer:&nbsp;<span style=\"font-family: 'Slabo 27px', serif; font-size: 1.07rem; font-weight: 300; line-height: 1.5; color: inherit;\">Officer who organizes non-raid events.</span></li></ul><h4></h4><p></p><p></p><ul><li>Public Relations Manager:<span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">&nbsp;Officer who manages the guild Discord, MoTD and other announcements.&nbsp;</span></li></ul><p><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\"><br></span></p><p></p><h3>Elite:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Members who have applied to be an officer and is currently proving that they truly wish to be an officer.</span></h3><h3>Raider:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Members who participate in the weekly Core Team raids.</span></h3><h3>Veteran:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Members who define our legacy as a guild.</span></h3><h3>Member:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Members with an established presence within the guild.</span></h3><h3>Recruit:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">New members to the guild and still getting to know the guild</span></h3>"
+          "text": "<h3>Guild Master:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Manages and controls all guild functionality and leads the guild as lead representative.</span></h3><h3>Assistant Guild Master:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Assists the Guild Master and, in the absence of the Guild Master, inherits all powers and responsibilities of the Guild Master.</span></h3><h3>Officer:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Each officer has a different “niche” within the leadership:</span></h3><ul><li><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Raid Leader: Officer who manages and leads the Core Team raids.</span></li></ul><h4></h4><h3></h3><h2></h2><h4></h4><h4></h4><h4></h4><h4></h4><ul><li>PvP Officer: Manages the PvP events and related activities.</li></ul><h4></h4><ul><li>Lore Master:<span style=\"font-family: 'Slabo 27px', serif; font-size: 1.07rem; font-weight: 300; line-height: 1.5; color: inherit;\">&nbsp;Officer who is well versed in the lore of the game.</span></li></ul><h4></h4><h4></h4><h4></h4><ul><li>Event Organizer:&nbsp;<span style=\"font-family: 'Slabo 27px', serif; font-size: 1.07rem; font-weight: 300; line-height: 1.5; color: inherit;\">Officer who organizes non-raid events.</span></li></ul><h4></h4><p></p><p></p><ul><li>Public Relations Manager:<span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">&nbsp;Officer who manages the guild Discord, MoTD and other announcements.&nbsp;</span></li></ul><p><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\"><br></span></p><p></p><h3>Elite:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Alts of officers.</span></h3><h3>Raider:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Members who participate in the weekly Core Team raids.</span></h3><h3>Veteran:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Members who define our legacy as a guild.</span></h3><h3>Member:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">Members with an established presence within the guild.</span></h3><h3>Recruit:</h3><h3><span style=\"font-size: 1.07rem; font-weight: 300; font-family: 'Slabo 27px', serif; line-height: 1.5;\">New members to the guild and still getting to know the guild</span></h3>"
         }
       ]
     },
@@ -4973,7 +4994,7 @@
           },
           "title3": "<span style=\"font-size: 1.25rem; line-height: 1.2825;\"><i>Legion</i></span><br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "-- Emerald Nightmare: 7/7N, 6/7H<br><br>-- Trial of Valor: 2/3N 1/3H<br><br>-- The Nighthold: 10/10N, 0/10H<br>",
+          "caption3": "-- Emerald Nightmare: 7/7N, 7/7H, 6/7M<br><br>-- Trial of Valor: 3/3N 3/3H<br><br>-- The Nighthold: 10/10N, 9/10H<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
