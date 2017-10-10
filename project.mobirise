@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "raidinfo.html",
+    "currentPage": "officers.html",
     "name": "Celestial",
     "theme": {
       "name": "mobirise3",
@@ -623,7 +623,7 @@
               "text": "Xarari has previously been not only a Raid Leader but also a Guild Master giving her an excellent history of personal knowledge and experience to draw from. All the raiders value and respect her and enjoy running her raids every week.",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/xarari-1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/x.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -672,10 +672,10 @@
           },
           "testimonial": [
             {
-              "text": "<p>Dryade has been a raider and good friend of Xarari, Lostnova and Cwealm. Dryade is always eager to help someone out and works tirelessly to keep the guild supplied with mats.</p>",
+              "text": "<p>Nostra has been a raider and good friend of Xarari, Raziel and Wu. Nostra is always eager to help someone out and works tirelessly to keep the guild supplied with mats.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/dryade.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/109939515-profilemain.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -686,14 +686,14 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "Dryade",
+              "authorName": "Raid Leader Nostra",
               "authorBio": "User"
             },
             {
-              "text": "<p>Lostnova is a long time raider and has a lot of experience leading teams and guilds. Lostnova keeps everyone on track and loves to help out.</p>",
+              "text": "<span style=\"font-size: 1.125rem; line-height: 2;\">Aliicia (Raz)</span><span style=\"font-size: 1.125rem; line-height: 2;\">&nbsp;is a long time raider and has a lot of experience leading teams and guilds. Raz keeps everyone on track and loves to help out.</span><br>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/lostnova.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/alic.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -704,14 +704,14 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "Lostnova",
+              "authorName": "Aliicia",
               "authorBio": "User"
             },
             {
-              "text": "<p>Cwealm has been an active guild memeber and friends with Xarari for many years, he always looks for the best in the guild and looks ot make the guild the best it can be.&nbsp;</p>",
+              "text": "<p>Wfgwoout (Wu) has been an active guild memeber and friends with Xarari for many years, he always looks for the best in the guild and looks ot make the guild the best it can be.&nbsp;</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/cwealm-1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/wu.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -722,14 +722,14 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "Cwealm",
+              "authorName": "Wfgwoout",
               "authorBio": "User"
             },
             {
-              "text": "<p>Callyn got into raiding recently in the big scheme of the game, he has since loved to help the guild and his guildies with anything they need in and out of the game. He looks to liven up the chat with his special sense of humor and calm down any issue that should arise.</p>",
+              "text": "<p>Voidslight (Callyn) got into raiding recently in the big scheme of the game, he has since loved to help the guild and his guildies with anything they need in and out of the game. He looks to liven up the chat with his special sense of humor and calm down any issue that should arise.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/callyn-1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/void.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -740,7 +740,7 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "Callyn",
+              "authorName": "Voidslight",
               "authorBio": "Developer"
             }
           ],
